@@ -40,7 +40,7 @@
     "replace-ext": "2.0.0",
     "semver": "7.3.5",
     "winston": "3.8.2",
-    "yaml": "2.1.1"
+    "yaml": "2.2.2"
   },
   "devDependencies": {
     "@apollo/client": "3.6.9",
