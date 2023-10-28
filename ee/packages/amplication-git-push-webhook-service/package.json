@@ -20,7 +20,7 @@
   "dependencies": {
     "@amplication/kafka": "^1.0.3",
     "@amplication/prisma-db": "^1.0.3",
-    "@nestjs/common": "8.2.3",
+    "@nestjs/common": "9.0.0",
     "@nestjs/config": "2.0.0",
     "@nestjs/core": "8.4.4",
     "@nestjs/microservices": "8.4.4",
