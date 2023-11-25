@@ -21,7 +21,7 @@
     "@amplication/kafka": "^1.0.3",
     "@amplication/nest-logger-module": "^1.0.3",
     "@nestjs/common": "8.4.3",
-    "@nestjs/config": "1.1.5",
+    "@nestjs/config": "1.1.6",
     "@nestjs/core": "8.2.3",
     "@nestjs/microservices": "8.4.3",
     "class-transformer": "0.5.1",
