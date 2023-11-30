@@ -20,7 +20,7 @@
     "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "dependencies": {
-    "@apollo/gateway": "0.42.3",
+    "@apollo/gateway": "2.2.0",
     "@nestjs/common": "8.2.3",
     "@nestjs/config": "1.1.5",
     "@nestjs/core": "8.2.3",
@@ -32,7 +32,7 @@
     "octokit": "^1.7.1",
     "octokit-plugin-create-pull-request": "3.12.2",
     "reflect-metadata": "^0.1.13",
-    "rimraf": "^3.0.2",
+    "rimraf": "^4.0.0",
     "rxjs": "^7.2.0"
   },
   "devDependencies": {
