@@ -43,7 +43,7 @@
     "@nestjs/jwt": "10.0.0",
     "@nestjs/microservices": "8.4.3",
     "@nestjs/passport": "8.2.2",
-    "@nestjs/platform-express": "8.4.0",
+    "@nestjs/platform-express": "10.3.6",
     "@ntegral/nestjs-sendgrid": "1.0.0",
     "@octokit/app": "12.0.5",
     "@octokit/auth-app": "3.6.1",
