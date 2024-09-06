@@ -19,7 +19,7 @@
     "update-test-data-service-snapshot": "jest -u src/tests/*.spec.ts && jest -u src/tests/server"
   },
   "dependencies": {
-    "@amplication/code-gen-types": "^1.0.3",
+    "@amplication/code-gen-types": "^1.1.0",
     "@amplication/plugin-auth-basic": "^1.0.3",
     "@amplication/plugin-auth-jwt": "^1.0.4",
     "@amplication/plugin-broker-kafka": "^0.0.10",
@@ -35,7 +35,7 @@
     "pascal-case": "3.1.2",
     "pluralize": "8.0.0",
     "prettier": "2.1.2",
-    "prisma-schema-dsl": "1.1.5",
+    "prisma-schema-dsl": "1.1.8",
     "recast": "0.20.5",
     "replace-ext": "2.0.0",
     "semver": "7.3.5",
