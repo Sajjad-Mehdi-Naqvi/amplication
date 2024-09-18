@@ -46,7 +46,7 @@
     "low code"
   ],
   "dependencies": {
-    "@nestjs/core": "^9.0.9",
+    "@nestjs/core": "^10.4.2",
     "ast-types": "^0.14.2",
     "json-schema": "0.4.0",
     "lodash": "^4.17.21",
