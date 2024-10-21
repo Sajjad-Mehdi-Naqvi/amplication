@@ -25,7 +25,7 @@
     "@nestjs/config": "1.1.5",
     "@nestjs/core": "8.2.3",
     "@nestjs/graphql": "9.1.2",
-    "@nestjs/platform-express": "8.2.3",
+    "@nestjs/platform-express": "10.4.5",
     "@octokit/openapi-types": "2.3.1",
     "graphql": "15.7.2",
     "minimatch": "5.1.0",
