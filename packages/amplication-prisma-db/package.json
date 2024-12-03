@@ -21,7 +21,7 @@
     "db:clean": "ts-node prisma/clean.ts"
   },
   "dependencies": {
-    "@nestjs/common": "^8.0.0",
+    "@nestjs/common": "^9.0.0",
     "@nestjs/core": "^8.0.0",
     "@nestjs/platform-express": "^8.0.0",
     "@prisma/client": "3.15.2",
